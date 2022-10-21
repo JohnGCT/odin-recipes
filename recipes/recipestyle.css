@@ -1,0 +1,22 @@
+/*Style CSS */
+
+body {
+    background-color: hsl(51, 89%, 76%);
+}
+
+h1 {
+    color: rgb(20, 107, 107);
+    font-family: 'Verdana', 'Times New Roman', sans-serif;
+
+}
+
+h2 {
+    background-color: hsl(34, 62%, 62%, 0.3);
+    color: rgb(20, 107, 107);
+    font-family: 'Verdana', 'Times New Roman', sans-serif;
+}
+
+.text {
+    color: rgb(20, 107, 107);
+    font-family: 'Brush Script MD', sans-serif;
+}
